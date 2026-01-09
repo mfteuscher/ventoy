@@ -2,8 +2,11 @@
   "theme": {
     "file": [
       "/ventoy/themes/vimix_1920x1080/theme.txt",
+      "/ventoy/themes/matrices-circle-window_1920x1080/theme.txt",
       "/ventoy/themes/vimix_2160X1440/theme.txt",
-      "/ventoy/themes/vimix_3840x2160/theme.txt"
+      "/ventoy/themes/matrices-circle-window_2560x1440/theme.txt",
+      "/ventoy/themes/vimix_3840x2160/theme.txt",
+      "/ventoy/themes/matrices-circle-window_3840x2160/theme.txt"
     ],
     "gfxmode": "max",
     "ventoy_color": "#ffffff",
@@ -11,7 +14,6 @@
      "/ventoy/themes/vimix_1920x1080/terminus-12.pf2",
      "/ventoy/themes/vimix_1920x1080/terminus-14.pf2",
      "/ventoy/themes/vimix_1920x1080/terminus-16.pf2",
-     "/ventoy/themes/vimix_1920x1080/terminus-18.pf2",
      "/ventoy/themes/vimix_1920x1080/terminus-18.pf2",
      "/ventoy/themes/vimix_1920x1080/unifont-16.pf2",
      "/ventoy/themes/vimix_1920x1080/unifont-24.pf2",
