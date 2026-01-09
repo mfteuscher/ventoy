@@ -1,0 +1,47 @@
+{
+  "theme": {
+    "file": [
+      "/ventoy/themes/vimix_1920x1080/theme.txt",
+      "/ventoy/themes/vimix_2160X1440/theme.txt",
+      "/ventoy/themes/vimix_3840x2160/theme.txt"
+    ],
+    "gfxmode": "max",
+    "ventoy_color": "#ffffff",
+    "fonts": [
+     "/ventoy/themes/vimix_1920x1080/terminus-12.pf2",
+     "/ventoy/themes/vimix_1920x1080/terminus-14.pf2",
+     "/ventoy/themes/vimix_1920x1080/terminus-16.pf2",
+     "/ventoy/themes/vimix_1920x1080/terminus-18.pf2",
+     "/ventoy/themes/vimix_1920x1080/terminus-18.pf2",
+     "/ventoy/themes/vimix_1920x1080/unifont-16.pf2",
+     "/ventoy/themes/vimix_1920x1080/unifont-24.pf2",
+     "/ventoy/themes/vimix_1920x1080/unifont-32.pf2"
+    ]
+  },
+  "menu_class": [
+    {
+      "key": "Win11",
+      "class": "windows"
+    },
+    {
+      "key": "manjaro",
+      "class": "manjaro"
+    },
+    {
+      "key": "ubuntu",
+      "class": "ubuntu"
+    },
+    {
+      "key": "Zorin",
+      "class": "zorin"
+    },
+    {
+      "key": "omarchy",
+      "class": "omarchy"
+    },
+    {
+      "key": "archlinux",
+      "class": "arch"
+    }
+  ]
+}
